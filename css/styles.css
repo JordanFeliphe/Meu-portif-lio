@@ -91,6 +91,10 @@
   }
 }
 
+#justificado{
+  text-align: justify;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -2845,7 +2849,7 @@ textarea.form-control-lg {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #be7c36;
+  --bs-btn-bg: #706354;
   --bs-btn-border-color: #1e30f300;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #b50202  ;
